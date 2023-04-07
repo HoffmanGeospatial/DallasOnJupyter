@@ -1,4 +1,9 @@
-# SoS: Using multiple kernels in a notebook
+# DallasOnJupyter Binderbook!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImmediateStranger/DallasOnJupyter/HEAD)
+
+https://mybinder.org/v2/gh/ImmediateStranger/DallasOnJupyter/HEAD
+
+## SoS: Using multiple kernels in a notebook
 
 [Script of Scripts](https://vatlab.github.io/sos-docs) is a polyglot
 notebook and a workflow engine. Ignoring the workflow engine part, SoS
