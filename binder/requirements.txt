@@ -4,7 +4,7 @@ numpy
 Pillow
 ply
 PyVirtualDisplay
-PyPlot
+#PyPlot
 Feather
 DataFrames
 NamedArrays
