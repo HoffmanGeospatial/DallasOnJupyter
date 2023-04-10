@@ -26,7 +26,7 @@ cd grass
 make
 
 # leave the directory with source code
-#cd ..
+cd ..
 
 # put command on path
 # ensure the user specific bin dir exists (already on path)
