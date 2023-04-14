@@ -3,3 +3,6 @@
 
 https://mybinder.org/v2/gh/ImmediateStranger/DallasOnJupyter/HEAD
 
+
+Official Dockerfile info:
+https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html
